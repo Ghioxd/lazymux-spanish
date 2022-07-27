@@ -1,4 +1,4 @@
-# lazymux_panish
+# lazymux_español 
 lazymux en español
 echo por Gameye98
 
@@ -14,7 +14,7 @@ apt install python
 
 apt install git
 
-git clone https://github.com/xxdariannxx/lazymux_spanish
+git clone https://github.com/telenhackse/lazymux_spanish
 
 cd lazymux_spanish
 
