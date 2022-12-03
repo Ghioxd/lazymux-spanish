@@ -1,6 +1,5 @@
 # lazymux_español 
 lazymux en español
-echo por Gameye98
 
 # Requisitos
 python 3
@@ -10,7 +9,7 @@ sudo apt update
 
 sudo apt upgrade
 
-apt install python 
+apt install python3
 
 apt install git
 
