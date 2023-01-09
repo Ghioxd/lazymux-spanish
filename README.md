@@ -1,2 +1,2 @@
-# lazymux_español 
+# lazymux-español 
 lazymux en español
